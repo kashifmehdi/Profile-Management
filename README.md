@@ -1,2 +1,3 @@
 # profile_management
-manages social profiles
+------------------------
+Manages social profiles
