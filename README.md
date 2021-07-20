@@ -6,7 +6,7 @@
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
-* [Working](#Interactive mode)
+* [Interactive mode](#Interactive mode)
 
 ## General info
 A menu driven program that will allow the user to enter commands and process these commands until the quit command is entered.
