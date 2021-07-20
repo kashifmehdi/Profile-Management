@@ -1,12 +1,14 @@
 # profile_management
+---
 <h1 align="center"></h1>
----
-## Manages social profiles
-<h2 align="center"></h2>
----
-**A menu driven program called project_base_file.py that will allow the user to enter commands and process these commands until the quit command is entered.
 
-**The program will store and maintain personal profile information (using a List of Profile objects). Personal profile information will be stored in a text file that will be read in when the program commences.
+## Manages social profiles
+---
+<h2 align="center"></h2>
+
+A menu driven program called project_base_file.py that will allow the user to enter commands and process these commands until the quit command is entered.
+
+The program will store and maintain personal profile information (using a List of Profile objects). Personal profile information will be stored in a text file that will be read in when the program commences.
 Once the initial profile data has been read in from the file, the program should allow the user to
 interactively query and manipulate the profile information.
 
