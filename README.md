@@ -1,9 +1,9 @@
-# profile_management
+# Profile Management
 ---
-<h1 align="center"></h1>
+<h1 align="center">profile managment</h1>
 
 ## Manages social profiles
----
+
 <h2 align="center"></h2>
 
 A menu driven program called project_base_file.py that will allow the user to enter commands and process these commands until the quit command is entered.
