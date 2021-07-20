@@ -2,6 +2,7 @@
 
 <h1 align="center">Profile Managment Program</h1>
 <h2 align="center">Manages social profiles</h2>
+
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
